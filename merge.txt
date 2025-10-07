@@ -3,3 +3,6 @@ Today is Tuesday
 ###############
 !!!!!!!!!!!!!!!
 777777777777777
+My new notice
+Hello user
+
